@@ -7,6 +7,8 @@ public class GitInEclipse {
 		System.out.println("This is the first git clone project in Eclipse");
 		System.out.println("Added to demonstrate resolve merge conflicts");
 		int a =10;
+		int b =20;
+		int c=30;
 	}
 
 }
