@@ -9,5 +9,7 @@ public class DisplayClientNames {
 		System.out.println("FIAT");
 		System.out.println("BMW One Click");
 		System.out.println("AUDI");
+		System.out.println("General Motors");
+		
 	}
 }
